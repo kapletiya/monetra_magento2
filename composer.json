@@ -17,7 +17,7 @@
 		"email": "support@monetra.com"
 	},
 	"require": {
-		"php": "~5.5|~7.0",
+		"php": "~5.5|~7.0|~7.1",
 		"magento/framework": "~100.0|~101.0|~102.0",
 		"magento/module-sales": "~100.0|~101.0",
 		"magento/module-checkout": "~100.0",
